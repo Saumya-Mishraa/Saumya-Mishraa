@@ -11,23 +11,13 @@
 ---
 
 ## 👩‍💻 About Me
-
-```javascript
-const saumya = {
-  location: "Delhi, India 🇮🇳",
-  education: "BCA @ MAIMS, GGSIPU",
-  role: "Web Developer",
-  currentlyLearning: ["Node.js", "Express.js", "MongoDB"],
-  interests: [
-    "Web Development",
-    "UI/UX Design",
-    "Open Source"
-  ],
-  motto: "Build with purpose. Learn with consistency."
-}
+- 🌐 Web Developer passionate about building modern and responsive web applications.
+- 🎓 BCA Student at MAIMS, GGSIPU.
+- 🌱 Currently learning Full Stack Development.
+- 🎨 Interested in UI/UX Design and creating intuitive user experiences.
+- 🚀 Always exploring new technologies and improving my development skills.
 ```
 
----
 
 ## ⚒️ Tech Stack
 
