@@ -1,16 +1,39 @@
-## Hi there 👋
+👋 Hi, I'm Saumya
 
-<!--
-**Saumya-Mishraa/Saumya-Mishraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Web Developer
+🚀 React • JavaScript • Node.js
+🌱 Currently Learning Backend & DSA
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+⚡ HTML CSS JavaScript
+⚛ React
+🟢 Node.js
+🍃 MongoDB
+🔧 Git GitHub
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Featured Projects
+
+🌐 Employee Management System
+🎓 Student Portal
+🛍 E-commerce Website
+📱 AayoApp Frontend
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 GitHub Stats
+
+🏆 GitHub Trophy
+
+🔥 Streak Stats
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+📫 Connect With Me
+
+LinkedIn
+Portfolio
+Email
