@@ -45,8 +45,6 @@ Currently learning **Full Stack Development** while strengthening my skills in m
 <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="mailto:imsaumya48@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
