@@ -135,9 +135,9 @@ Building Production-Ready Applications
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saumya-Mishraa&show_icons=true&theme=transparent&hide_border=true&title_color=00B8A9&icon_color=00B8A9&text_color=808080" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saumya-Mishraa&show_icons=true&hide_border=true&theme=transparent" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saumya-Mishraa&layout=compact&theme=transparent&hide_border=true&title_color=00B8A9&text_color=808080" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saumya-Mishraa&layout=compact&hide_border=true&theme=transparent" width="41%" />
 
 </div>
 
