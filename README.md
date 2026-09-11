@@ -4,16 +4,16 @@
 
 ### 💻 Web Developer | Aspiring Full Stack Developer | MERN Stack
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00B8A9&center=true&vCenter=true&width=750&lines=Web+Developer;Aspiring+Full+Stack+Developer;Building+Modern+Web+Applications;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+REST+APIs+%7C+JavaScript;Always+Learning+%26+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00B8A9&center=true&vCenter=true&width=800&lines=Web+Developer;Aspiring+Full+Stack+Developer;Building+Modern+Web+Applications;React.js+%7C+Node.js+%7C+Express.js;Python+%7C+MongoDB+%7C+REST+APIs;Always+Learning+%26+Building"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/saumya-mishra-a20387373/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="mailto:imsaumya48@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -24,9 +24,9 @@
 
 I'm a **Web Developer and BCA student** passionate about building modern, responsive, and user-friendly web applications.
 
-Currently, I'm growing into **Full Stack Development**, working with the **MERN stack** and strengthening my skills in frontend development, backend APIs, databases, and UI/UX design.
+Currently, I'm growing into **Full Stack Development**, working with modern web technologies across the frontend, backend, databases, and deployment.
 
-I enjoy turning ideas into functional digital products — from designing interfaces to building APIs and connecting applications with databases.
+I enjoy turning ideas into functional digital products — from designing interfaces and building APIs to connecting databases and deploying applications.
 
 > 🚀 **My goal:** Build scalable, meaningful, and production-ready web applications.
 
@@ -47,10 +47,10 @@ I enjoy turning ideas into functional digital products — from designing interf
 ### ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express&perline=6" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python&perline=6" />
 </p>
 
-**Node.js • Express.js • REST APIs • API Integration**
+**Node.js • Express.js • Python • REST APIs • API Integration**
 
 ---
 
@@ -60,7 +60,17 @@ I enjoy turning ideas into functional digital products — from designing interf
 <img src="https://skillicons.dev/icons?i=mongodb&perline=6" />
 </p>
 
-**MongoDB • Database Integration • CRUD Operations**
+**MongoDB • Database Integration • CRUD Operations • Data Management**
+
+---
+
+### ☁️ Hosting & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,netlify&perline=6" />
+</p>
+
+**Vercel • Netlify • Render • Web Deployment**
 
 ---
 
@@ -91,10 +101,28 @@ I'm building full-stack applications with:
 * 🔹 Responsive and interactive React interfaces
 * 🔹 RESTful backend APIs
 * 🔹 Node.js & Express.js server-side development
+* 🔹 Python-based backend development
 * 🔹 MongoDB database integration
 * 🔹 CRUD-based applications
 * 🔹 API communication and data handling
 * 🔹 Authentication and application workflows
+* 🔹 Deployment and hosting
+
+---
+
+## ☁️ Deployment & Hosting
+
+I have experience working with modern deployment platforms for hosting frontend and full-stack applications.
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify&perline=2" />
+
+<br/><br/>
+
+**Vercel • Netlify • Render**
+
+</div>
 
 ---
 
@@ -112,6 +140,10 @@ Interactive and component-based interfaces using React.js and modern frontend pr
 
 Complete applications combining **React.js + Node.js + Express.js + MongoDB**.
 
+### 🐍 Python Applications
+
+Backend and programming projects using **Python**, with a focus on practical problem-solving and application development.
+
 ### 🎨 UI/UX Experiences
 
 Clean, intuitive and responsive interfaces with attention to user experience and visual design.
@@ -122,8 +154,10 @@ Clean, intuitive and responsive interfaces with attention to user experience and
 
 * 🚀 Advanced Full Stack Development
 * ⚙️ Backend Architecture & REST APIs
+* 🐍 Python Backend Development
 * 🗄️ MongoDB & Database Design
 * 🔐 Authentication & Authorization
+* ☁️ Deployment & Cloud Hosting
 * 🧩 Building Scalable Web Applications
 * 💡 Writing Clean & Maintainable Code
 
@@ -133,12 +167,12 @@ Clean, intuitive and responsive interfaces with attention to user experience and
 
 <div align="center">
 
-|  💻 Frontend |    ⚙️ Backend   |     🗄️ Database     | 🔧 Tools |
-| :----------: | :-------------: | :------------------: | :------: |
-|   React.js   |     Node.js     |        MongoDB       |    Git   |
-|  JavaScript  |    Express.js   |         CRUD         |  GitHub  |
-|  HTML & CSS  |    REST APIs    |     Data Handling    |  VS Code |
-| Tailwind CSS | API Integration | Database Integration |   Figma  |
+|  💻 Frontend | ⚙️ Backend |     🗄️ Database     | ☁️ Deployment |
+| :----------: | :--------: | :------------------: | :-----------: |
+|   React.js   |   Node.js  |        MongoDB       |     Vercel    |
+|  JavaScript  | Express.js |         CRUD         |    Netlify    |
+|  HTML & CSS  |   Python   |     Data Handling    |     Render    |
+| Tailwind CSS |  REST APIs | Database Integration |  Web Hosting  |
 
 </div>
 
@@ -177,11 +211,15 @@ A collection of responsive web applications focused on modern UI, usability, int
                 ↓
        React.js + JavaScript
                 ↓
-            REST APIs
+          REST APIs
                 ↓
-      Node.js + Express.js
+    Node.js + Express.js
+                ↓
+     Python Backend Development
                 ↓
             MongoDB
+                ↓
+      Deployment & Hosting
                 ↓
        Full Stack Development
                 ↓
@@ -195,13 +233,13 @@ A collection of responsive web applications focused on modern UI, usability, int
 <div align="center">
 
 <a href="https://www.linkedin.com/in/saumya-mishra-a20387373/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://img.shields.io/badge/LinkedIn-Saumya%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-   
+  
 
 <a href="mailto:imsaumya48@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+<img src="https://img.shields.io/badge/Gmail-imsaumya48%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
