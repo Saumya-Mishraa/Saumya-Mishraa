@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Saumya Mishra
 
-### 💻 Web Developer | Aspiring Full Stack Developer | UI/UX Enthusiast
+### 💻 Web Developer | Aspiring Full Stack Developer | MERN Stack
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00B8A9&center=true&vCenter=true&width=750&lines=Web+Developer;Aspiring+Full+Stack+Developer;Building+Modern+Web+Applications;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+REST+APIs+%7C+JavaScript;Always+Learning+%26+Building"/>
 
@@ -11,6 +11,7 @@
 <a href="https://www.linkedin.com/in/saumya-mishra-a20387373/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:imsaumya48@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -63,10 +64,10 @@ I enjoy turning ideas into functional digital products — from designing interf
 
 ---
 
-### 🔧 Tools & Technologies
+### 🔧 Tools & Design
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm&perline=6" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm&perline=5" />
 </p>
 
 **Git • GitHub • VS Code • Figma • npm**
@@ -75,17 +76,17 @@ I enjoy turning ideas into functional digital products — from designing interf
 
 ## 🚀 Full Stack Development
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-
-</p>
 
 ### MERN Stack
 
 **MongoDB → Express.js → React.js → Node.js**
 
-Building full-stack applications with:
+</div>
+
+I'm building full-stack applications with:
 
 * 🔹 Responsive and interactive React interfaces
 * 🔹 RESTful backend APIs
@@ -93,63 +94,99 @@ Building full-stack applications with:
 * 🔹 MongoDB database integration
 * 🔹 CRUD-based applications
 * 🔹 API communication and data handling
-* 🔹 Authentication & application workflows
+* 🔹 Authentication and application workflows
 
 ---
 
 ## 📂 What I Build
 
-💻 **Web Applications**
-Modern, responsive and user-friendly websites and applications.
+### 💻 Web Applications
 
-⚛️ **React Applications**
-Interactive interfaces using React.js and modern frontend practices.
+Modern, responsive and user-friendly websites and applications with a focus on usability and performance.
 
-🔗 **Full Stack Applications**
-Frontend + REST APIs + backend logic + MongoDB.
+### ⚛️ React Applications
 
-🎨 **UI/UX Experiences**
-Clean layouts and intuitive user interfaces with attention to usability.
+Interactive and component-based interfaces using React.js and modern frontend practices.
+
+### 🔗 Full Stack Applications
+
+Complete applications combining **React.js + Node.js + Express.js + MongoDB**.
+
+### 🎨 UI/UX Experiences
+
+Clean, intuitive and responsive interfaces with attention to user experience and visual design.
 
 ---
 
 ## 🌱 Currently Learning
 
+* 🚀 Advanced Full Stack Development
+* ⚙️ Backend Architecture & REST APIs
+* 🗄️ MongoDB & Database Design
+* 🔐 Authentication & Authorization
+* 🧩 Building Scalable Web Applications
+* 💡 Writing Clean & Maintainable Code
+
+---
+
+## 🚀 Development Focus
+
+<div align="center">
+
+|  💻 Frontend |    ⚙️ Backend   |     🗄️ Database     | 🔧 Tools |
+| :----------: | :-------------: | :------------------: | :------: |
+|   React.js   |     Node.js     |        MongoDB       |    Git   |
+|  JavaScript  |    Express.js   |         CRUD         |  GitHub  |
+|  HTML & CSS  |    REST APIs    |     Data Handling    |  VS Code |
+| Tailwind CSS | API Integration | Database Integration |   Figma  |
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+### 💬 Real-Time Chat Application
+
+**React.js • Node.js • Express.js • MongoDB**
+
+A full-stack chat application focused on real-time communication, responsive interfaces, backend APIs, and database-driven functionality.
+
+---
+
+### 👥 Employee Management System
+
+**React.js • Node.js • Express.js • MongoDB**
+
+A full-stack management application featuring CRUD operations, REST APIs, backend logic, and MongoDB database integration.
+
+---
+
+### 🌐 Responsive Web Projects
+
+**HTML • CSS • JavaScript • React.js**
+
+A collection of responsive web applications focused on modern UI, usability, interactive components, and practical frontend development.
+
+---
+
+## 🎯 My Development Journey
+
 ```text
-Full Stack Development
-        ↓
-Node.js + Express.js
-        ↓
-REST APIs
-        ↓
-MongoDB
-        ↓
-Authentication & Backend Architecture
-        ↓
-Building Production-Ready Applications
+        Frontend Development
+                ↓
+       React.js + JavaScript
+                ↓
+            REST APIs
+                ↓
+      Node.js + Express.js
+                ↓
+            MongoDB
+                ↓
+       Full Stack Development
+                ↓
+    Production-Ready Applications
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saumya-Mishraa&show_icons=true&hide_border=true&theme=transparent" width="48%" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saumya-Mishraa&layout=compact&hide_border=true&theme=transparent" width="41%" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Saumya-Mishraa&theme=transparent&hide_border=true&ring=00B8A9&fire=FF6B6B&currStreakLabel=00B8A9"/>
-
-</div>
 
 ---
 
@@ -160,7 +197,9 @@ Building Production-Ready Applications
 <a href="https://www.linkedin.com/in/saumya-mishra-a20387373/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
-&nbsp;&nbsp;
+
+   
+
 <a href="mailto:imsaumya48@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
