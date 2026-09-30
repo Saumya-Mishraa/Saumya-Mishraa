@@ -1,261 +1,253 @@
 <div align="center">
 
-# 👋 Hi, I'm Saumya Mishra
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8A9,100:006D77&height=180&section=header&text=Saumya%20Mishra&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20Aspiring%20Full%20Stack%20Developer&descAlignY=62&descSize=18"/>
 
-### 💻 Web Developer | Aspiring Full Stack Developer | MERN Stack
+### Building interfaces. Connecting systems. Turning ideas into products.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00B8A9&center=true&vCenter=true&width=800&lines=Web+Developer;Aspiring+Full+Stack+Developer;Building+Modern+Web+Applications;React.js+%7C+Node.js+%7C+Express.js;Python+%7C+MongoDB+%7C+REST+APIs;Always+Learning+%26+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=900&color=00B8A9&center=true&vCenter=true&width=700&lines=Frontend+%E2%86%92+Backend+%E2%86%92+Full+Stack;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+Python+%7C+REST+APIs;Learning%2C+Building+%26+Improving+Every+Day"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/saumya-mishra-a20387373/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:imsaumya48@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Saumya-Mishraa" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## `whoami`
 
-I'm a **Web Developer and BCA student** passionate about building modern, responsive, and user-friendly web applications.
+Hi! I'm **Saumya Mishra**, a **BCA student and Web Developer** exploring the world of full-stack development.
 
-Currently, I'm growing into **Full Stack Development**, working with modern web technologies across the frontend, backend, databases, and deployment.
+I enjoy creating things that are not just functional, but also **clean, responsive and easy to use**.
 
-I enjoy turning ideas into functional digital products — from designing interfaces and building APIs to connecting databases and deploying applications.
+My journey started with frontend development and gradually moved toward backend systems, databases, APIs and deployment. Now I'm focused on becoming a **well-rounded Full Stack Developer** who can take an idea from concept to a working product.
 
-> 🚀 **My goal:** Build scalable, meaningful, and production-ready web applications.
-
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react&perline=6" />
-</p>
-
-**HTML5 • CSS3 • Bootstrap • Tailwind CSS • JavaScript • React.js**
-
----
-
-### ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python&perline=6" />
-</p>
-
-**Node.js • Express.js • Python • REST APIs • API Integration**
+```js
+const saumya = {
+    role: "Aspiring Full Stack Developer",
+    focus: ["Web Development", "Full Stack", "UI/UX"],
+    frontend: ["HTML", "CSS", "JavaScript", "React"],
+    backend: ["Node.js", "Express.js", "Python"],
+    database: ["MongoDB", "SQL"],
+    tools: ["Git", "GitHub", "VS Code", "Postman", "Figma"],
+    deployment: ["Vercel", "Netlify", "Render"],
+    mindset: "Learn → Build → Improve"
+};
+```
 
 ---
 
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb&perline=6" />
-</p>
-
-**MongoDB • Database Integration • CRUD Operations • Data Management**
-
----
-
-### ☁️ Hosting & Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=vercel,netlify&perline=6" />
-</p>
-
-**Vercel • Netlify • Render • Web Deployment**
-
----
-
-### 🔧 Tools & Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm&perline=5" />
-</p>
-
-**Git • GitHub • VS Code • Figma • npm**
-
----
-
-## 🚀 Full Stack Development
+## ⚡ Tech I Work With
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+### Frontend
 
-### MERN Stack
-
-**MongoDB → Express.js → React.js → Node.js**
-
-</div>
-
-I'm building full-stack applications with:
-
-* 🔹 Responsive and interactive React interfaces
-* 🔹 RESTful backend APIs
-* 🔹 Node.js & Express.js server-side development
-* 🔹 Python-based backend development
-* 🔹 MongoDB database integration
-* 🔹 CRUD-based applications
-* 🔹 API communication and data handling
-* 🔹 Authentication and application workflows
-* 🔹 Deployment and hosting
-
----
-
-## ☁️ Deployment & Hosting
-
-I have experience working with modern deployment platforms for hosting frontend and full-stack applications.
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vercel,netlify&perline=2" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 
 <br/><br/>
 
-**Vercel • Netlify • Render**
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql" />
+
+<br/><br/>
+
+### Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,vercel,netlify" />
 
 </div>
 
 ---
 
-## 📂 What I Build
+## 🧩 What I Like Building
 
-### 💻 Web Applications
+<table>
+<tr>
+<td width="50%">
 
-Modern, responsive and user-friendly websites and applications with a focus on usability and performance.
+### 🎨 Interactive Frontends
 
-### ⚛️ React Applications
+Responsive interfaces with **React.js, JavaScript, HTML & CSS**, focused on usability and clean component-based design.
 
-Interactive and component-based interfaces using React.js and modern frontend practices.
+</td>
+<td width="50%">
 
-### 🔗 Full Stack Applications
+### ⚙️ Backend Systems
 
-Complete applications combining **React.js + Node.js + Express.js + MongoDB**.
+REST APIs and server-side applications using **Node.js, Express.js and Python**.
 
-### 🐍 Python Applications
+</td>
+</tr>
 
-Backend and programming projects using **Python**, with a focus on practical problem-solving and application development.
+<tr>
+<td width="50%">
 
-### 🎨 UI/UX Experiences
+### 🗄️ Data-Driven Apps
 
-Clean, intuitive and responsive interfaces with attention to user experience and visual design.
+Applications connected to **MongoDB / SQL** with CRUD operations, data handling and API integration.
 
----
+</td>
+<td width="50%">
 
-## 🌱 Currently Learning
+### ☁️ Deployment
 
-* 🚀 Advanced Full Stack Development
-* ⚙️ Backend Architecture & REST APIs
-* 🐍 Python Backend Development
-* 🗄️ MongoDB & Database Design
-* 🔐 Authentication & Authorization
-* ☁️ Deployment & Cloud Hosting
-* 🧩 Building Scalable Web Applications
-* 💡 Writing Clean & Maintainable Code
+Taking applications from local development to the web using **Vercel, Netlify and Render**.
 
----
-
-## 🚀 Development Focus
-
-<div align="center">
-
-|  💻 Frontend | ⚙️ Backend |     🗄️ Database     | ☁️ Deployment |
-| :----------: | :--------: | :------------------: | :-----------: |
-|   React.js   |   Node.js  |        MongoDB       |     Vercel    |
-|  JavaScript  | Express.js |         CRUD         |    Netlify    |
-|  HTML & CSS  |   Python   |     Data Handling    |     Render    |
-| Tailwind CSS |  REST APIs | Database Integration |  Web Hosting  |
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Work
 
 ### 💬 Real-Time Chat Application
 
-**React.js • Node.js • Express.js • MongoDB**
+**React.js · Node.js · Express.js · MongoDB · Socket.IO**
 
-A full-stack chat application focused on real-time communication, responsive interfaces, backend APIs, and database-driven functionality.
+A full-stack real-time communication application with authentication, conversations, messaging, reactions and responsive UI.
+
+**Focus:** Real-time communication · REST APIs · Database integration · Socket architecture
 
 ---
 
 ### 👥 Employee Management System
 
-**React.js • Node.js • Express.js • MongoDB**
+**React.js · Node.js · Express.js · MongoDB**
 
-A full-stack management application featuring CRUD operations, REST APIs, backend logic, and MongoDB database integration.
+A full-stack management application designed around CRUD operations, REST APIs and database-driven workflows.
 
----
-
-### 🌐 Responsive Web Projects
-
-**HTML • CSS • JavaScript • React.js**
-
-A collection of responsive web applications focused on modern UI, usability, interactive components, and practical frontend development.
+**Focus:** CRUD · API integration · Backend logic · MongoDB
 
 ---
 
-## 🎯 My Development Journey
+### 🔥 FlowForge — Visual API Testing & Workflow Automation
+
+**React.js · Node.js · Express.js · MongoDB · React Flow**
+
+A visual platform for testing APIs and creating automated workflows through a node-based interface.
+
+**Focus:** API testing · Workflow automation · Variables · Conditions · REST APIs
+
+---
+
+## 🛠️ My Development Workflow
 
 ```text
-        Frontend Development
-                ↓
-       React.js + JavaScript
-                ↓
-          REST APIs
-                ↓
-    Node.js + Express.js
-                ↓
-     Python Backend Development
-                ↓
-            MongoDB
-                ↓
-      Deployment & Hosting
-                ↓
-       Full Stack Development
-                ↓
-    Production-Ready Applications
+      💡 Idea
+        │
+        ▼
+   🎨 Design & UI
+        │
+        ▼
+  ⚛️ React Frontend
+        │
+        ▼
+ 🔗 API Integration
+        │
+        ▼
+ ⚙️ Node / Express
+        │
+        ▼
+ 🗄️ Database Layer
+        │
+        ▼
+ 🧪 Test & Debug
+        │
+        ▼
+ ☁️ Deploy
+        │
+        ▼
+      🚀 Build
 ```
 
 ---
 
-## 📫 Let's Connect
+## 🌱 Currently Exploring
+
+```text
+Advanced React
+      ↓
+Backend Architecture
+      ↓
+Authentication & Authorization
+      ↓
+Database Design
+      ↓
+API & System Integration
+      ↓
+Cloud Deployment
+      ↓
+Scalable Full Stack Applications
+```
+
+I'm especially interested in understanding **how complete applications work behind the interface** — from the browser request to the server, database and back.
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/saumya-mishra-a20387373/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Saumya%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Saumya-Mishraa&show_icons=true&hide_border=true&bg_color=00000000&title_color=00B8A9&icon_color=00B8A9&text_color=666666" height="165"/>
 
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saumya-Mishraa&layout=compact&hide_border=true&bg_color=00000000&title_color=00B8A9&text_color=666666" height="165"/>
 
-<a href="mailto:imsaumya48@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-imsaumya48%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</div>
 
-<br/><br/>
+<br/>
 
-**Open to learning, building, collaborating, and new opportunities.**
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saumya-Mishraa&hide_border=true&background=FFFFFF00&ring=00B8A9&fire=00B8A9&currStreakLabel=00B8A9" />
 
 </div>
 
 ---
 
+## 🎯 What I'm Working Toward
+
+> **Becoming a developer who can take an idea from a blank screen to a deployed product.**
+
+I'm currently focused on:
+
+* Building stronger full-stack projects
+* Improving backend and API development
+* Understanding databases more deeply
+* Learning better software architecture
+* Writing cleaner and maintainable code
+* Preparing for full-stack development opportunities
+
+---
+
+## 🤝 Let's Build Something
+
+I'm always interested in **learning, building, collaborating and exploring new ideas.**
+
 <div align="center">
 
-### ✨ "Code with curiosity. Build with purpose."
+<a href="https://www.linkedin.com/in/saumya-mishra-a20387373/" target="_blank">
+<img src="https://img.shields.io/badge/Let's%20Connect-00B8A9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br/>
+<br/><br/>
 
-⭐ **Thanks for visiting my profile!**
+**Open to opportunities, collaborations & interesting projects.**
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006D77,100:00B8A9&height=100&section=footer"/>
 
 </div>
