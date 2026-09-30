@@ -229,9 +229,15 @@ I'm especially interested in understanding **how complete applications work behi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saumya-Mishraa&show_icons=true&hide_border=true&bg_color=00000000&title_color=00B8A9&icon_color=00B8A9&text_color=666666" height="165"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Saumya-Mishraa&show_icons=true&hide_border=true&bg_color=00000000&title_color=00B8A9&icon_color=00B8A9&text_color=666666"
+  height="165"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saumya-Mishraa&layout=compact&hide_border=true&bg_color=00000000&title_color=00B8A9&text_color=666666" height="165"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saumya-Mishraa&layout=compact&hide_border=true&bg_color=00000000&title_color=00B8A9&text_color=666666"
+  height="165"
+/>
 
 </div>
 
@@ -239,7 +245,10 @@ I'm especially interested in understanding **how complete applications work behi
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saumya-Mishraa&hide_border=true&background=FFFFFF00&ring=00B8A9&fire=00B8A9&currStreakLabel=00B8A9" />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Saumya-Mishraa&hide_border=true&background=FFFFFF00&ring=00B8A9&fire=00B8A9&currStreakLabel=00B8A9"
+  height="165"
+/>
 
 </div>
 
