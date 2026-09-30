@@ -24,26 +24,54 @@
 
 ---
 
-## `whoami`
+## 👋 About Me
 
-Hi! I'm **Saumya Mishra**, a **BCA student and Web Developer** exploring the world of full-stack development.
+<table>
+<tr>
+<td width="65%">
 
-I enjoy creating things that are not just functional, but also **clean, responsive and easy to use**.
+### Hey, I'm Saumya! 👋
 
-My journey started with frontend development and gradually moved toward backend systems, databases, APIs and deployment. Now I'm focused on becoming a **well-rounded Full Stack Developer** who can take an idea from concept to a working product.
+I'm a **BCA student and aspiring Full Stack Developer** who enjoys turning ideas into clean, responsive and meaningful web experiences.
 
-```js
-const saumya = {
-    role: "Aspiring Full Stack Developer",
-    focus: ["Web Development", "Full Stack", "UI/UX"],
-    frontend: ["HTML", "CSS", "JavaScript", "React"],
-    backend: ["Node.js", "Express.js", "Python"],
-    database: ["MongoDB", "SQL"],
-    tools: ["Git", "GitHub", "VS Code", "Postman", "Figma"],
-    deployment: ["Vercel", "Netlify", "Render"],
-    mindset: "Learn → Build → Improve"
-};
-```
+I started with **frontend development** and gradually moved toward backend development, databases, APIs and deployment. Today, I'm focused on understanding the complete journey of a web application — from the **first line of UI to the backend logic and database behind it.**
+
+<br/>
+
+I enjoy working on projects where I can **design, build, debug and improve** things while learning something new along the way.
+
+</td>
+
+<td width="35%" align="center">
+
+### ✨ What Drives Me
+
+💡 **Curiosity**
+
+🛠️ **Building**
+
+🧩 **Problem Solving**
+
+📚 **Learning**
+
+🚀 **Improving**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+**Frontend** → **APIs** → **Backend** → **Database** → **Deployment**
+
+<br/>
+
+*Learning by building real things.*
+
+</div>
+
 
 ---
 
