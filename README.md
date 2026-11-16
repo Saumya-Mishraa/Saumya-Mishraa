@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00B8A9,50:008F8C,100:006D77&height=230&section=header&text=Saumya%20Mishra&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20Designer&descAlignY=65&descSize=20&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6FB5,50:E0529C,100:9B5DE5&height=230&section=header&text=Saumya%20Mishra&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20Designer&descAlignY=65&descSize=20&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=00B8A9&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%26+Designer;Building+interfaces.+Connecting+systems.;Turning+ideas+into+products.;Frontend+%E2%86%92+Backend+%E2%86%92+Full+Stack;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+Python+%7C+REST+APIs;Learning%2C+Building+%26+Improving+Every+Day"/>
 
